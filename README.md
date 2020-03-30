@@ -1,5 +1,5 @@
 # MoodDiary
-Mood Diary in SwiftUI using basic persistence with property list encoder/decoder.
+Mood Diary in SwiftUI using basic persistence with property list encoder/decoder. Using MVC. Using UIkit for the textview inside SwiftUI.
 
 
 ![Image of Initial view](https://github.com/nelglez/MoodDiary/blob/master/images/ss1.png)
